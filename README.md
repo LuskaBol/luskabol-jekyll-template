@@ -21,9 +21,9 @@ url: "" # the base hostname &/|| protocol for your site
 username: Lorem Ipsum
 user_description: Lorem Developer
 user_title: Lorem Ipsum
-email: lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
+email: luskabol@riseup.net
+twitter_username: luskabol
+github_username:  luskabol
 gplus_username:  loremipsum
 disqus_username: loremipsum
 
